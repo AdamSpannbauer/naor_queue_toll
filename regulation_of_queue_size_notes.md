@@ -1,11 +1,3 @@
-# Notes on paper
-
-Naor, P. (1969).
-The regulation of queue size by levying tolls.
-Econometrica: journal of the Econometric Society, 15-24.
-<https://doi.org/10.2307/1909200>
-
-------------------------------------------------------------------------
 
 #### Disclaimers
 
